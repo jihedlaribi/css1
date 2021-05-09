@@ -1,0 +1,166 @@
+body  {
+   background-image: url( https://backgroundlabs.com/wp-content/uploads/2013/03/paper-seamless-background.jpg);
+  color: #000305;
+    font-size: 90%;
+    font-family: Arial,'lucida Sans Unicode';
+    line-height: 1.5;
+    text-align: left;
+}
+a{ text-decoration: none;}
+a:link, a:visited { color: #e74c3c ;}
+a:hover, a:active { color: #f58233;}
+
+.body{
+    margin: 10px auto;
+    width: 80%;
+    clear: both;
+
+    }
+    /*---------------header------------*/
+    .test img {
+        width: 100%;
+    }
+
+.test nav {
+    background-color:#f58233;
+    height: 40px;
+    border-radius: 5px;
+   
+
+}
+.test nav ul {
+    text-align: center;
+    list-style: none;
+    margin: 0 auto;
+
+
+
+}
+
+.test nav ul  li {
+  display: inline;
+
+}
+.test a:link, .test a:visited {
+    color: white;
+    font-weight: bold;
+    padding: 10px 40px;
+    display: inline-block;
+}
+ .test a:hover, .test a:active {
+    color: white;
+background-color: #e74c3c;
+text-shadow: none;
+}
+   /*---------------contant------------*/
+
+.contant {
+
+    background-color:white;
+    padding: 3%;
+    margin-top: 3%;
+    border-radius:  5px;
+    
+}
+.paragraph p  { 
+    width: auto;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+
+   }
+.music h2 {
+    background-color:white;
+    padding: 3%;
+    margin-top: 3%;
+    border-radius:  5px;
+
+}
+.vedio h2 {
+
+    background-color:white;
+    padding: 3%;
+    margin-top: 3%;
+    border-radius:  5px;
+    
+}
+.tab h2 {
+    background-color:white;
+    padding: 3%;
+    margin-top: 3%;
+    border-radius:  5px;
+    
+
+
+  }
+
+
+.table  {
+  width: 100%;
+  border: 1px solid;
+  }
+ .table tr th {
+     padding: 15px;
+     color: white;
+     background-color: #f58233;
+     border: 1px solid rgb(197, 144, 144);
+     font-weight: bold;
+     text-align: center;
+
+
+ }
+
+.table td {
+
+padding: 15px;
+background-color: #fff;
+border-spacing: 2px;
+border: 1px solid rgb(197, 144, 144);
+}
+.container {
+    box-shadow: 15px 35px #e74c3c , 0 5px 15px rgb(0, 0, .07);
+    width: 65%;
+    padding: 2em;
+    background-color: white;
+    border-radius: 5px;
+
+
+}
+
+
+
+
+ /*---------------footer------------*/
+
+footer{
+    background-image: url(img/télécharger.jpg);
+    width: 100%;
+    height: 150px;
+    
+   
+}
+.footer p {
+    color: white;
+    background-color: #f58233;
+    font-size: 24px;
+    text-align: center;
+    height:40px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
